@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TeamSprta\\TextRPG - Team\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A40194B9-5C16-4429-BEC9-F9F1C3A5EAD4}|TextRPG - Team\\TextRPG - Team.csproj|e:\\teamsprta\\textrpg - team\\textrpg - team\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40194B9-5C16-4429-BEC9-F9F1C3A5EAD4}|TextRPG - Team\\TextRPG - Team.csproj|solutionrelative:textrpg - team\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TeamSprta\\TextRPG - Team\\TextRPG - Team\\Program.cs",
+              "RelativeDocumentMoniker": "TextRPG - Team\\Program.cs",
+              "ToolTip": "E:\\TeamSprta\\TextRPG - Team\\TextRPG - Team\\Program.cs",
+              "RelativeToolTip": "TextRPG - Team\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T02:20:06.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+E:\TeamSprta\TextRPG - Team\TextRPG - Team\obj\Debug\net8.0\TextRPG - Team.GeneratedMSBuildEditorConfig.editorconfig
+E:\TeamSprta\TextRPG - Team\TextRPG - Team\obj\Debug\net8.0\TextRPG - Team.AssemblyInfoInputs.cache
+E:\TeamSprta\TextRPG - Team\TextRPG - Team\obj\Debug\net8.0\TextRPG - Team.AssemblyInfo.cs
+E:\TeamSprta\TextRPG - Team\TextRPG - Team\obj\Debug\net8.0\TextRPG - Team.csproj.CoreCompileInputs.cache
+E:\TeamSprta\TextRPG - Team\TextRPG - Team\bin\Debug\net8.0\TextRPG - Team.exe
+E:\TeamSprta\TextRPG - Team\TextRPG - Team\bin\Debug\net8.0\TextRPG - Team.deps.json
+E:\TeamSprta\TextRPG - Team\TextRPG - Team\bin\Debug\net8.0\TextRPG - Team.runtimeconfig.json
+E:\TeamSprta\TextRPG - Team\TextRPG - Team\bin\Debug\net8.0\TextRPG - Team.dll
+E:\TeamSprta\TextRPG - Team\TextRPG - Team\bin\Debug\net8.0\TextRPG - Team.pdb
+E:\TeamSprta\TextRPG - Team\TextRPG - Team\obj\Debug\net8.0\TextRPG - Team.dll
+E:\TeamSprta\TextRPG - Team\TextRPG - Team\obj\Debug\net8.0\refint\TextRPG - Team.dll
+E:\TeamSprta\TextRPG - Team\TextRPG - Team\obj\Debug\net8.0\TextRPG - Team.pdb
+E:\TeamSprta\TextRPG - Team\TextRPG - Team\obj\Debug\net8.0\TextRPG - Team.genruntimeconfig.cache
+E:\TeamSprta\TextRPG - Team\TextRPG - Team\obj\Debug\net8.0\ref\TextRPG - Team.dll
