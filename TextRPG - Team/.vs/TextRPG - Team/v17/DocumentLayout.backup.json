@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\TeamSprta\\TextRPG - Team\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A40194B9-5C16-4429-BEC9-F9F1C3A5EAD4}|TextRPG - Team\\TextRPG - Team.csproj|e:\\teamsprta\\textrpg - team\\textrpg - team\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40194B9-5C16-4429-BEC9-F9F1C3A5EAD4}|TextRPG - Team\\TextRPG - Team.csproj|solutionrelative:textrpg - team\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A40194B9-5C16-4429-BEC9-F9F1C3A5EAD4}|TextRPG - Team\\TextRPG - Team.csproj|e:\\teamsprta\\textrpg - team\\textrpg - team\\chad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40194B9-5C16-4429-BEC9-F9F1C3A5EAD4}|TextRPG - Team\\TextRPG - Team.csproj|solutionrelative:textrpg - team\\chad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\TeamSprta\\TextRPG - Team\\TextRPG - Team\\Program.cs",
-              "RelativeDocumentMoniker": "TextRPG - Team\\Program.cs",
-              "ToolTip": "E:\\TeamSprta\\TextRPG - Team\\TextRPG - Team\\Program.cs",
-              "RelativeToolTip": "TextRPG - Team\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Title": "Chad.cs",
+              "DocumentMoniker": "E:\\TeamSprta\\TextRPG - Team\\TextRPG - Team\\Chad.cs",
+              "RelativeDocumentMoniker": "TextRPG - Team\\Chad.cs",
+              "ToolTip": "E:\\TeamSprta\\TextRPG - Team\\TextRPG - Team\\Chad.cs*",
+              "RelativeToolTip": "TextRPG - Team\\Chad.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwEsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T02:20:06.422Z",
+              "WhenOpened": "2025-04-21T07:53:58.259Z",
               "EditorCaption": ""
             }
           ]

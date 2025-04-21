@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net10.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net10.0": []
   },
   "packageFolders": {
     "C:\\Users\\user\\.nuget\\packages\\": {},
@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\유니티 깃허브\\Text_RPG_Chill\\TextRPG - Team\\TextRPG - Team\\TextRPG - Team.csproj",
+      "projectUniqueName": "E:\\TeamSprta\\TextRPG - Team\\TextRPG - Team.csproj",
       "projectName": "TextRPG - Team",
-      "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\유니티 깃허브\\Text_RPG_Chill\\TextRPG - Team\\TextRPG - Team\\TextRPG - Team.csproj",
+      "projectPath": "E:\\TeamSprta\\TextRPG - Team\\TextRPG - Team.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\유니티 깃허브\\Text_RPG_Chill\\TextRPG - Team\\TextRPG - Team\\obj\\",
+      "outputPath": "E:\\TeamSprta\\TextRPG - Team\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -29,15 +29,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net9.0"
+        "net10.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net10.0": {
+          "targetAlias": "net10.0",
           "projectReferences": {}
         }
       },
@@ -49,13 +49,13 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       },
       "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
-      "net9.0": {
-        "targetAlias": "net9.0",
+      "net10.0": {
+        "targetAlias": "net10.0",
         "imports": [
           "net461",
           "net462",
@@ -67,24 +67,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[9.0.3, 9.0.3]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[9.0.3, 9.0.3]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[9.0.3, 9.0.3]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[9.0.3, 9.0.3]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -252,20 +234,20 @@
           "System.Buffers": "(, 5.0.0]",
           "System.Collections": "(, 4.3.0]",
           "System.Collections.Concurrent": "(, 4.3.0]",
-          "System.Collections.Immutable": "(, 9.0.0]",
+          "System.Collections.Immutable": "(, 10.0.0]",
           "System.Collections.NonGeneric": "(, 4.3.0]",
           "System.Collections.Specialized": "(, 4.3.0]",
           "System.ComponentModel": "(, 4.3.0]",
-          "System.ComponentModel.Annotations": "(, 5.0.0]",
+          "System.ComponentModel.Annotations": "(, 4.3.0]",
           "System.ComponentModel.EventBasedAsync": "(, 4.3.0]",
           "System.ComponentModel.Primitives": "(, 4.3.0]",
           "System.ComponentModel.TypeConverter": "(, 4.3.0]",
           "System.Console": "(, 4.3.1]",
           "System.Data.Common": "(, 4.3.0]",
-          "System.Data.DataSetExtensions": "(, 4.5.0]",
+          "System.Data.DataSetExtensions": "(, 4.4.0]",
           "System.Diagnostics.Contracts": "(, 4.3.0]",
           "System.Diagnostics.Debug": "(, 4.3.0]",
-          "System.Diagnostics.DiagnosticSource": "(, 9.0.0]",
+          "System.Diagnostics.DiagnosticSource": "(, 10.0.0]",
           "System.Diagnostics.FileVersionInfo": "(, 4.3.0]",
           "System.Diagnostics.Process": "(, 4.3.0]",
           "System.Diagnostics.StackTrace": "(, 4.3.0]",
@@ -275,8 +257,8 @@
           "System.Diagnostics.Tracing": "(, 4.3.0]",
           "System.Drawing.Primitives": "(, 4.3.0]",
           "System.Dynamic.Runtime": "(, 4.3.0]",
-          "System.Formats.Asn1": "(, 9.0.0]",
-          "System.Formats.Tar": "(, 9.0.0]",
+          "System.Formats.Asn1": "(, 10.0.0]",
+          "System.Formats.Tar": "(, 10.0.0]",
           "System.Globalization": "(, 4.3.0]",
           "System.Globalization.Calendars": "(, 4.3.0]",
           "System.Globalization.Extensions": "(, 4.3.0]",
@@ -284,23 +266,24 @@
           "System.IO.Compression": "(, 4.3.0]",
           "System.IO.Compression.ZipFile": "(, 4.3.0]",
           "System.IO.FileSystem": "(, 4.3.0]",
-          "System.IO.FileSystem.AccessControl": "(, 5.0.0]",
+          "System.IO.FileSystem.AccessControl": "(, 4.4.0]",
           "System.IO.FileSystem.DriveInfo": "(, 4.3.1]",
           "System.IO.FileSystem.Primitives": "(, 4.3.0]",
           "System.IO.FileSystem.Watcher": "(, 4.3.0]",
           "System.IO.IsolatedStorage": "(, 4.3.0]",
           "System.IO.MemoryMappedFiles": "(, 4.3.0]",
-          "System.IO.Pipelines": "(, 9.0.0]",
+          "System.IO.Pipelines": "(, 10.0.0]",
           "System.IO.Pipes": "(, 4.3.0]",
-          "System.IO.Pipes.AccessControl": "(, 4.6.0]",
+          "System.IO.Pipes.AccessControl": "(, 5.0.0]",
           "System.IO.UnmanagedMemoryStream": "(, 4.3.0]",
           "System.Linq": "(, 4.3.0]",
+          "System.Linq.AsyncEnumerable": "(, 10.0.0]",
           "System.Linq.Expressions": "(, 4.3.0]",
           "System.Linq.Parallel": "(, 4.3.0]",
           "System.Linq.Queryable": "(, 4.3.0]",
           "System.Memory": "(, 5.0.0]",
           "System.Net.Http": "(, 4.3.4]",
-          "System.Net.Http.Json": "(, 9.0.0]",
+          "System.Net.Http.Json": "(, 10.0.0]",
           "System.Net.NameResolution": "(, 4.3.0]",
           "System.Net.NetworkInformation": "(, 4.3.0]",
           "System.Net.Ping": "(, 4.3.0]",
@@ -321,9 +304,9 @@
           "System.Reflection.Emit.ILGeneration": "(, 4.7.0]",
           "System.Reflection.Emit.Lightweight": "(, 4.7.0]",
           "System.Reflection.Extensions": "(, 4.3.0]",
-          "System.Reflection.Metadata": "(, 9.0.0]",
+          "System.Reflection.Metadata": "(, 10.0.0]",
           "System.Reflection.Primitives": "(, 4.3.0]",
-          "System.Reflection.TypeExtensions": "(, 4.7.0]",
+          "System.Reflection.TypeExtensions": "(, 4.3.0]",
           "System.Resources.Reader": "(, 4.3.0]",
           "System.Resources.ResourceManager": "(, 4.3.0]",
           "System.Resources.Writer": "(, 4.3.0]",
@@ -346,7 +329,7 @@
           "System.Security.AccessControl": "(, 6.0.1]",
           "System.Security.Claims": "(, 4.3.0]",
           "System.Security.Cryptography.Algorithms": "(, 4.3.1]",
-          "System.Security.Cryptography.Cng": "(, 4.6.0]",
+          "System.Security.Cryptography.Cng": "(, 5.0.0]",
           "System.Security.Cryptography.Csp": "(, 4.3.0]",
           "System.Security.Cryptography.Encoding": "(, 4.3.0]",
           "System.Security.Cryptography.OpenSsl": "(, 5.0.0]",
@@ -357,16 +340,16 @@
           "System.Security.Principal.Windows": "(, 5.0.0]",
           "System.Security.SecureString": "(, 4.3.0]",
           "System.Text.Encoding": "(, 4.3.0]",
-          "System.Text.Encoding.CodePages": "(, 9.0.0]",
+          "System.Text.Encoding.CodePages": "(, 10.0.0]",
           "System.Text.Encoding.Extensions": "(, 4.3.0]",
-          "System.Text.Encodings.Web": "(, 9.0.0]",
-          "System.Text.Json": "(, 9.0.0]",
+          "System.Text.Encodings.Web": "(, 10.0.0]",
+          "System.Text.Json": "(, 10.0.0]",
           "System.Text.RegularExpressions": "(, 4.3.1]",
           "System.Threading": "(, 4.3.0]",
-          "System.Threading.Channels": "(, 9.0.0]",
+          "System.Threading.Channels": "(, 10.0.0]",
           "System.Threading.Overlapped": "(, 4.3.0]",
           "System.Threading.Tasks": "(, 4.3.0]",
-          "System.Threading.Tasks.Dataflow": "(, 9.0.0]",
+          "System.Threading.Tasks.Dataflow": "(, 10.0.0]",
           "System.Threading.Tasks.Extensions": "(, 5.0.0]",
           "System.Threading.Tasks.Parallel": "(, 4.3.0]",
           "System.Threading.Thread": "(, 4.3.0]",
